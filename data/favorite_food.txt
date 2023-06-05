@@ -1,4 +1,9 @@
 name,food
 alan,rice
+<<<<<<< HEAD
 Trinity,seafood
 
+=======
+annie,noodles
+Jianing,shrimp
+>>>>>>> 33df1ff73622b719f51686da4ec5474a0dd8b22e
