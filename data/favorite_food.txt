@@ -1,3 +1,7 @@
 name,food
 alan,rice
 Treena, rice also
+steve,lychee
+annie,noodles
+Jianing,shrimp
+also alan, fried butter
