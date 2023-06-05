@@ -1,5 +1,6 @@
 name,food
 alan,rice
-also alan, fried butter
-Jianing,shrimp
+steve,lychee
 annie,noodles
+Jianing,shrimp
+also alan, fried butter
