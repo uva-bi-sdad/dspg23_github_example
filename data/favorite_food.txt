@@ -1,12 +1,12 @@
 name,food
 alan,rice
 Nakshatra, Pasta
+Treena, rice also
+anjali,ginger snap cookies from trader joes 
 Trinity,seafood
 steve,lychee
 annie,noodles
 Jianing,shrimp
 also alan, fried butter
 prashanth,steak 
-anjali,ginger snap cookies from trader joes 
-
 
