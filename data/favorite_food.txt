@@ -1,8 +1,6 @@
 name,food
 alan,rice
-<<<<<<< HEAD
 sara, ice cream
-=======
 steve,lychee
 annie,noodles
 Jianing,shrimp
@@ -10,4 +8,7 @@ also alan, fried butter
 annie,noodles
 Jianing,shrimp
 prashanth,steak 
->>>>>>> abbc31066ad0d0722d6bbe46ffb4a0dff2528d70
+anjali,ginger snap cookies from trader joes 
+steve,lychee
+annie,noodles
+Jianing,shrimp
