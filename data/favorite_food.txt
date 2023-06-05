@@ -1,3 +1,11 @@
 name,food
 alan,rice
 Nakshatra, Pasta
+steve,lychee
+annie,noodles
+Jianing,shrimp
+also alan, fried butter
+annie,noodles
+Jianing,shrimp
+prashanth,steak 
+
