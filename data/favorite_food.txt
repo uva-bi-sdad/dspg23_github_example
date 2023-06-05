@@ -1,5 +1,6 @@
 name,food
 alan,rice
+
 Nakshatra, Pasta
 steve,lychee
 annie,noodles
@@ -8,4 +9,8 @@ also alan, fried butter
 annie,noodles
 Jianing,shrimp
 prashanth,steak 
+anjali,ginger snap cookies from trader joes 
+steve,lychee
+annie,noodles
+Jianing,shrimp
 
