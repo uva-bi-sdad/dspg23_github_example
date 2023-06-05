@@ -1,4 +1,6 @@
 name,food
 alan,rice
 anjali,ginger snap cookies from trader joes 
-
+steve,lychee
+annie,noodles
+Jianing,shrimp
