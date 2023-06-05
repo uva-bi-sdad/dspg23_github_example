@@ -1,19 +1,13 @@
 name,food
 alan,rice
-<<<<<<< HEAD
 marijke, pasta 
-=======
 Treena, rice also
 anjali,ginger snap cookies from trader joes 
 Trinity,seafood
->>>>>>> 34c8dd0620ef5e0bb17966a265045e242addf293
 steve,lychee
-annie,noodles
-Jianing,shrimp
 annie,noodles
 Jianing,shrimp
 also alan, fried butter
 prashanth,steak 
-anjali,ginger snap cookies from trader joes 
-annie,noodles
+
 
