@@ -1,11 +1,9 @@
 name,food
 alan,rice
-<<<<<<< HEAD
 marijke, pasta 
-=======
 steve,lychee
 annie,noodles
 Jianing,shrimp
 annie,noodles
 Jianing,shrimp
->>>>>>> 913a2aa008723d6d6beb185e86f9d6860f29ec34
+also alan, fried butter
