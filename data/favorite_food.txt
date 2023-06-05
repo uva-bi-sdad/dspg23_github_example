@@ -1,3 +1,4 @@
 name,food
 alan,rice
+Jianing,shrimp
 also alan, fried butter
