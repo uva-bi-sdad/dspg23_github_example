@@ -1,10 +1,7 @@
 name,food
 alan,rice
 Treena, rice also
+anjali,ginger snap cookies from trader joes 
 steve,lychee
 annie,noodles
 Jianing,shrimp
-also alan, fried butter
-annie,noodles
-Jianing,shrimp
-prashanth,steak 
