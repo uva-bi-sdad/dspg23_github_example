@@ -1,7 +1,12 @@
 name,food
 alan,rice
+Treena, rice also
 anjali,ginger snap cookies from trader joes 
+Trinity,seafood
 steve,lychee
 annie,noodles
 Jianing,shrimp
+also alan, fried butter
+anjali,ginger snap cookies from trader joes 
+annie,noodles
 prashanth, steak (medium-rare)
