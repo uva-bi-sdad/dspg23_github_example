@@ -1,17 +1,15 @@
-name,food
-alan,rice
-sara, ice cream
-steve,lychee
-annie,noodles
-Jianing,shrimp
-also alan, fried butter
-annie,noodles
-Jianing,shrimp
-prashanth,steak 
-Nakshatra, Pasta
-marijke, pasta 
-Treena, rice also
-anjali,ginger snap cookies from trader joes 
-Trinity,seafood
-
-
+name,food,Animals,Fact
+alan,rice,,
+sara, ice cream,,
+steve,lychee,,
+annie,noodles,,
+Jianing,shrimp,,
+also alan, fried butter,,
+annie,noodles,,
+Jianing,shrimp,,
+prashanth,steak ,,
+Nakshatra, Pasta,,
+marijke, pasta ,,
+Treena, rice also,,
+anjali,ginger snap cookies from trader joes ,,
+Trinity,seafood,butterfly(idc that it is't an animal),I like to write poetry in my free time
