@@ -1,0 +1,7 @@
+Bad tools:
+-not recyclable
+-no documentation/help information
+-no portablility (should work well on all platforms)
+-not user friendly/intuitive
+-inconsistent output
+-inaccurate
