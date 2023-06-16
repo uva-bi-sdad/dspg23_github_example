@@ -34,4 +34,4 @@ with open(filename, 'a', newline='', encoding='utf-8') as file:
 print('Success!')
 #list ideas in a group setting
 #brainstorm
-#try things out
+#each of you try things out
